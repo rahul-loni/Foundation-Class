@@ -1,0 +1,37 @@
+/* body{
+    background-color:rgb(195, 195, 198);
+    padding: 0px;
+    margin: 0px;
+  
+}
+table{
+    padding: 8px;
+    width: 350px;
+    margin: 20px auto;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    box-sizing: 0 0 10px rgba(241, 16, 16, 0.2);
+   border: 2px solid green;
+   border-collapse: collapse;
+  text-align: center;
+}
+tr,th,td{
+    border: 2px solid black;
+}
+th{
+    background-color: white;
+    padding: 10px;
+}
+td{
+    background-color: cadetblue;
+    padding: 10px;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.age{
+    background-color: blueviolet;
+} */

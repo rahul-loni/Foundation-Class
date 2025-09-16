@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 16px;
+    border-radius: 10px;
+    background-color: rgb(112, 115, 115);
+    color: white; 
+    font-size: 20px;
+    font-family: initial;
+    font-weight: bold;
+    margin-bottom: 100px;
+    }
+a:hover{
+    background-color: blue;
+    border-radius: 100px;
+}
+.div1{
+    font-size: 50px;
+}
+.div2{
+    font-size: 100px;
+}
+#name{
+    color: red;
+}
